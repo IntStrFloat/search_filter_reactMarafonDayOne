@@ -1,0 +1,19 @@
+.container {
+  display: flex;
+  justify-content: center;
+}
+.app{
+  display: flex;
+  flex-direction: column;
+  font-size: 30px;
+  line-height: 50px;
+  align-items: center;
+}
+.app input {
+  font-size: large;
+  width: 20rem;
+  height: 2rem;
+}
+.app ul {
+  list-style-type:none;
+}
